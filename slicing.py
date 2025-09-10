@@ -1,0 +1,10 @@
+a=[11,22,33,44,55,66]
+print(a[0])
+print(a[-1])
+print(a[2])
+print(a[-3:])
+print(a[3:])
+a.extend([77,88,99])
+print(a)
+a.insert(4,65)
+print(a)
